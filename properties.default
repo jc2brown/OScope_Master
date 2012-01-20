@@ -1,0 +1,27 @@
+#
+#Wed Dec 21 00:22:35 EST 2011
+display.time.tickLength=0
+display.time.divs=1
+2channel.timeOffset=-1.0
+2channel.uSecPerDiv=1.0
+2channel.voltageOffset=-1.0
+2channel.uSecPerDivIndex=0
+1channel.mVoltPerDivIndex=0
+2channel.mVoltPerDivIndex=0
+1channel.brightness=0
+display.voltage.ticksPerDiv=1
+display.voltage.tickLength=0
+1channel.intensity=0
+display.voltage.divs=1
+2channel.dataColours=-65536`-59111`-52429`-46004`-39322`-32897`-26215`-19790`-13108`-6683
+2channel.brightness=0
+display.time.ticksPerDiv=1
+1channel.uSecPerDivIndex=0
+1channel.mVoltPerDiv=1.0
+1channel.dataColours=-16711936`-15073511`-13369549`-11731124`-10027162`-8388737`-6684775`-5046350`-3342388`-1703963
+2channel.intensity=0
+persist.currentMode=0
+1channel.voltageOffset=-1.0
+1channel.timeOffset=-1.0
+2channel.mVoltPerDiv=1.0
+1channel.uSecPerDiv=1.0
